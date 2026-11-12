@@ -1,5 +1,6 @@
 # Clock It!!!
 AI-based resume reviewer that gives an ATS score and tells you what your resume is missing.
+![ClockIt Logo](logo.png)
 
 ## Features
 - Pick a field: Technical & STEM, Business/Law & Management, or Creative/Media & Design
@@ -19,6 +20,6 @@ Python, Streamlit, pdfplumber, Google Gemini API
 4. `streamlit run app.py`
 
 ## Note
-The ATS scoring criteria, edge-case rules and handling, debugging, UI design and logo are my own work. A fw parts of code were generated using AI Assistance.
+The ATS scoring criteria, edge-case rules and handling, debugging, UI design and logo are my own work. A few parts of code were generated using AI Assistance.
 
 Built by Tanya Nigam {Foundation Year B.tech CSE Student(2026-2030)}
